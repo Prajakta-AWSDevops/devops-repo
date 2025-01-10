@@ -1,5 +1,7 @@
 def add(a, b):
-    pass
+    return(a +b)
 def sub(a, b):
     pass
+def mul(a ,b):
+    pass`
 
